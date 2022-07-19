@@ -14,7 +14,7 @@
 
 > ## <div align="center">Contactame:</div>
 
-  *  Mi portfolio lo encuentran en: [https://g]_blank (https://gabrielnietodejesus.com.ar/)  
+  *  Mi portfolio lo encuentran en: [https://g]("https://github.com/GabrielNDJ" target="_blank")  
 
   *  Mi correo es: gnj@gabrielnietodejesus.com.ar 
 
