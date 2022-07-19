@@ -2,7 +2,7 @@
 <img src="https://gabrielnietodejesus.com.ar/imagen/portada.jpg" align="center" style="width: 100%" />
 </div>  
   
-
+<br><br/>
 > ## <div align="center">Pagina web hecha con:<br>
   -  Html
   -  Css
@@ -14,7 +14,7 @@
 
 > ## <div align="center">Contactame:</div>
 
-  *  Mi portfolio lo encuentran en: https://gabrielnietodejesus.com.ar/  
+  *  Mi portfolio lo encuentran en: https://gabrielnietodejesus.com.ar/   
 
   *  Mi correo es: gnj@gabrielnietodejesus.com.ar 
 
