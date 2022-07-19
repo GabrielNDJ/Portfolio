@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://gabrielnietodejesus.com.ar/imagen/portada.jpg" align="center" style="width: 100%" />
+<img src="https://gabrielnietodejesus.com.ar/imagen/portfolioprincipal.jpg" align="center" style="width: 100%" />
 </div>  
   
 <br><br/>
