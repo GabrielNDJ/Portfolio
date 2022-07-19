@@ -22,3 +22,4 @@
 
   *  Mi github es: https://github.com/GabrielNDJ
 
+  * Descargar mi Cv: https://gabrielnietodejesus.com.ar/guardar/cv.pdf
