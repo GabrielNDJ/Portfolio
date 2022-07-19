@@ -2,7 +2,7 @@
 <img src="https://gabrielnietodejesus.com.ar/imagen/portada.jpg" align="center" style="width: 100%" />
 </div>  
   
-<br>
+<br><br/>
 > ## <div align="center">Pagina web hecha con:<br>
   -  Html
   -  Css
